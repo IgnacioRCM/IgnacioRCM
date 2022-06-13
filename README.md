@@ -3,6 +3,6 @@ Mi nombre es Ignacio y estudio Ingeniería en Sistemas de Información en UTN-FR
 
 - 🌱 Actualmente me enfoco en conocer más acerca de desarrollo backend.
 
-- :zap: Utilizo: Java, Angular, Nodejs, Express y MySql.
+- :zap: Utilizo: Java, Spring Boot, Angular(TypeScript, HTML y CSS), Nodejs, Express y SQL(MySQL, MS SQL, PostgreSQL).
 
 - 📫 Pueden comunicarse conmigo a través de mi correo electrónico.
